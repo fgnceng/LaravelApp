@@ -1,0 +1,229 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"REMOTE",
+				"REMOTE_ADDR"
+			],
+			[
+				"PHP",
+				"phpversion"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/figen/Ws/blog/app/Http/routes.php",
+		"/home/figen/Ws/blog/app/Http/Controllers/HomeController.php",
+		"/home/figen/İndirilenler/blog-master/.env.example",
+		"/home/figen/Ws/laravellearn/project/resources/views/merhaba.blade.php",
+		"/home/figen/Ws/laravellearn/project/routes/routes.php",
+		"/home/figen/Ws/laravellearn/project/tests/CreatesApplication.php",
+		"/home/figen/Ws/laravellearn/project/app/Http/Controllers/Controller.php",
+		"/home/figen/Ws/laravellearn/project/app/Http/Controllers/Urunler.php",
+		"/home/figen/Ws/blog/.env",
+		"/home/figen/Ws/blog/config/database.php",
+		"/home/figen/Ws/blog/routes/web.php",
+		"/home/figen/Ws/blog/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/home/figen/Ws/blog/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/figen/Ws/blog/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php",
+		"/home/figen/Ws/blog/.env.example",
+		"/home/figen/Ws/blog/vendor/webmozart/assert/tests/AssertTest.php",
+		"/var/www/html/project/6.baski/4bolum/sayfa133-cerez_sayfa1.php",
+		"/var/www/html/project/6.baski/4bolum/sayfa132-form_dogrulama.php",
+		"/var/www/html/project/6.baski/4bolum/sayfa131-form_dogrulama.php",
+		"/var/www/html/project/6.baski/4bolum/sayfa115-print_r.php",
+		"/var/www/html/project/6.baski/4bolum/sayfa125-bilgi_secme2.php",
+		"/var/www/html/project/6.baski/4bolum/sayfa130-form_dogrulama.php",
+		"/var/www/html/project/6.baski/4bolum/sayfa116-empty.php",
+		"/var/www/html/project/6.baski/4bolum/sayfa127-str_word_count.php",
+		"/var/www/html/project/6.baski/4bolum/sayfa127-substr.php",
+		"/home/figen/Masaüstü/DBMSBankProject/DBMSBankProject/Personnel.cs",
+		"/home/figen/Masaüstü/DBMSBankProject/DBMSBankProject.sln",
+		"/home/figen/15bolum/l5/app/Category.php",
+		"/home/figen/15bolum/l5/app/Makale.php",
+		"/home/figen/15bolum/l5/app/Comment.php",
+		"/home/figen/.cache/.fr-pPujyL/6.baski/4bolum/sayfa112-giris.php",
+		"/home/figen/.cache/.fr-SsIg3U/6.baski/4bolum/sayfa114-giris2.html",
+		"/home/figen/composer.phar",
+		"/home/figen/Masaüstü/CODES/xampp/phpMyAdmin/config.inc.php",
+		"/home/figen/Masaüstü/CODES/xampp/phpMyAdmin/setup/frames/config.inc.php",
+		"/var/www/html/musteri/18.11.2017.php",
+		"/var/www/html/musteri/listele.php",
+		"/var/www/html/musteri/tırnak.php",
+		"/var/www/html/musteri/yukle.php",
+		"/var/www/html/musteri/yukle.html",
+		"/var/www/html/musteri/html.html",
+		"/var/www/html/musteri/index.php",
+		"/home/figen/Ws/blog/app/Http/Controllers/hello.php",
+		"/var/www/html/musteri/add.php",
+		"/home/figen/Masaüstü/CRUD/crud-php-pdo-simple-master/edit.php",
+		"/var/www/html/musteri/add.html",
+		"/var/www/htmldeneme",
+		"/var/www/html/musteri/config.php",
+		"/home/figen/Masaüstü/resimler/figen foto/IMG_2819.JPG",
+		"/var/www/html/musteri/insertimage.php",
+		"/home/figen/Masaüstü/xampp/htdocs/phptodo/index.php",
+		"/home/figen/Masaüstü/xampp/htdocs/blog/index.html",
+		"/var/www/html/musteri/add.html~",
+		"/home/figen/Masaüstü/xampp/htdocs/blog/index.php",
+		"/var/www/html/musteri/delete.php",
+		"/var/www/html/musteri/edit.php",
+		"/home/figen/Masaüstü/xampp/htdocs/musteri/index.php"
+	],
+	"find":
+	{
+		"height": 68.0
+	},
+	"find_in_files":
+	{
+		"height": 160.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 56.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "HomeController.sublime-project",
+	"replace":
+	{
+		"height": 108.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 544.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
